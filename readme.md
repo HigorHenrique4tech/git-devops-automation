@@ -1,6 +1,6 @@
 # Projeto Exemplo com Git
 
-Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso basico do Git e GitHub.
+Bem-vindo ao repositório! Este é um projeto de para demonstrar o uso basico do Git e GitHub e ferramentas de automação
 
 ## Tecnologias Usadas
 
@@ -14,4 +14,8 @@ Bem-vindo ao repositório! Este é um projeto de exemplo para demonstrar o uso b
 
 ---
 
-## Como trabalhar com Git
+### Objetivos Principais
+
+Esse projeto tem como objetivo automatizar a criação de ambientes com ferramentas como Terraform, Ansible, GitHub Actions
+
+###
